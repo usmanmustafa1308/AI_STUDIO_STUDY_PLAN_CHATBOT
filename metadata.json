@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Student Study Plan & Progress Management Chatbot",
+  "description": "A comprehensive FYP project using FastAPI, Scikit-Learn, and Streamlit to predict academic risk and generate personalized study schedules via interactive chat and form inputs.",
+  "requestFramePermissions": []
+}
